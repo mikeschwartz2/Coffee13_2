@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewData["Title"] = "Products";
+
+    IEnumerable<Product> Products = (IEnumerable<Product>)ViewData["Products"];
+}
+
+<h1>Full Menu</h1>
+
+<ul>
+    @foreach (Product p in Products)
+    {
+        <li>@p.ProductName  (@p.Category) @p.Description $@Math.Round(p.Price, 2)</li>
+    }
+
+</ul>
