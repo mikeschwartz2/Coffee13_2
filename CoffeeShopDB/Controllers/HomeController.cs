@@ -15,12 +15,12 @@ namespace CoffeeShopDB.Controllers
     public class HomeController : Controller
     {
         IConfiguration ConfigRoot;
-        SqlConnection connection;
+        DAL dal;
 
         public HomeController(IConfiguration config)
         {
             ConfigRoot = config;
-            connection = new SqlConnection(ConfigRoot.GetConnectionString("coffeeShopDB"));
+            dal = new DAL(ConfigRoot.GetConnectionString("coffeeShopDB"));
         }
 
         public IActionResult Index()

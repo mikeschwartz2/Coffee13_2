@@ -114,4 +114,6 @@ C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp
 C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\CoffeeShopDB.dll
 C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\CoffeeShopDB.pdb
 C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\Razor\Views\Product\Index.cshtml.g.cs
-C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\Razor\Views\ProductDescription\Index.cshtml.g.cs
+C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Index.cshtml.g.cs
+C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\Razor\Views\Admin\AddForm.cshtml.g.cs
+C:\Users\MSchwartz2-\source\repos\CoffeeShopDB\CoffeeShopDB\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Edit.cshtml.g.cs
